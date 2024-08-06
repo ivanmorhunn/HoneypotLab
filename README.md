@@ -17,7 +17,6 @@ In this lab I've created a honeypot virtual machine through Microsoft Azure with
 
 - <b>Windows 10</b> (21H2)
 
-<
 <!--
  ```diff
 - text in red
