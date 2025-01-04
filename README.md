@@ -1,7 +1,5 @@
 <h1>HoneypotLab</h1>
 
- ### 📹 [YouTube Demonstration](https://youtu.be/oroYvYiM62M)
-
 <h2>📝 Description</h2>
 In this lab I've created a honeypot virtual machine through Microsoft Azure with analytics workspace
 
@@ -16,6 +14,8 @@ In this lab I've created a honeypot virtual machine through Microsoft Azure with
 <h2>💾 Environment</h2>
 
 - <b>Windows 10</b> (21H2)
+
+### 📹 [YouTube Demonstration](https://youtu.be/oroYvYiM62M)
 
 <!--
  ```diff
