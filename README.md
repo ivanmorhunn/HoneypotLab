@@ -1,6 +1,5 @@
-<h1>HoneypotLab</h1>
+<h1>🍯 HoneypotLab</h1>
 
-<h2>📝 Description</h2>
 In this lab, I’ve set up a honeypot virtual machine within Microsoft Azure, leveraging the power of the cloud to create a controlled environment for monitoring and studying cyber threats.
 <br />
 
